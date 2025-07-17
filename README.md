@@ -1,1 +1,2 @@
-this is empty file 😊
+You can Generate and Solve Sudoku...
+view this amazing code and enjoy solving Sudoku 👍😊
